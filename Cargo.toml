@@ -1,0 +1,8 @@
+[package]
+name = "choqoor"
+version = "0.0.1"
+license = "MIT"
+edition = "2021"
+description = "Ready-to-use Deep Learning algorithms written in Rust from scratch."
+
+[dependencies]
